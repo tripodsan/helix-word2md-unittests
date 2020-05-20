@@ -27,3 +27,7 @@ https://helix-word2md-unittests--tripodsan.project-helix.page/1d/sub/welcome.htm
 ### more images
 
 https://helix-word2md-unittests--tripodsan.project-helix.page/1d/three-tips-on-smarter-device-design.html
+
+### QR Code Assets
+
+https://helix-word2md-unittests--tripodsan.project-helix.page/1d/qr-code-assets.html
